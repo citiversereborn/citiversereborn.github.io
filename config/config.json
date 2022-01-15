@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7475d11d4c667216358b078c8d063de3291acc03",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7475d11d4c667216358b078c8d063de3291acc03",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Citiverse Reborn",
+  "SYMBOL": "CVR",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 500000000000000000,
+  "DISPLAY_COST": 0.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/stubborn-ape-polygon-club",
+  "SHOW_BACKGROUND": true
+}
